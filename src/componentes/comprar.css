@@ -1,0 +1,54 @@
+
+.form-container {
+
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  margin-top: 180px;
+}
+
+.form-title {
+  text-align: center;
+}
+
+.input-form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+label {
+  margin-bottom: 5px;
+}
+
+input,
+select {
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+
+.buy-button {
+  display: block;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-bottom: 80px;
+  
+}
+
+
+
+
+  
+  
+  
+  
+  
