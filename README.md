@@ -8,7 +8,7 @@ Projeto final para disciplina de Banco de Dados, a Loja Kids é um e-commerce es
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/stefanietds/ecommerce-app.git
 ```
 
 Entre no diretório do projeto
